@@ -1,19 +1,22 @@
-<definition link_type="simple" height="50" hotspot_x="30" type="element" width="60" version="0.100.0" hotspot_y="29">
-    <uuid uuid="{68bbb41b-c695-41f3-9b03-e16906a86070}"/>
+<definition hotspot_x="30" link_type="simple" version="0.100.0" width="60" hotspot_y="29" height="50" type="element">
+    <uuid uuid="{79bb2b9e-5442-4216-88c2-5fa3536ca763}"/>
     <names>
         <name lang="pt">Bateria_Veicular</name>
     </names>
     <elementInformations/>
     <informations></informations>
     <description>
-        <text x="14.4" rotation="0" text="+" font="Sans Serif,8,-1,5,50,0,0,0,0,0" y="-7.5" color="#ff3c00"/>
-        <ellipse x="14.4" antialias="false" height="8.00412" width="8.01176" y="-15" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <rect x="16" antialias="false" height="5" width="5" y="-22.5" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" ry="0"/>
-        <rect x="-25" antialias="false" height="35" width="50" y="-17.5" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" ry="0"/>
-        <rect x="-21" antialias="false" height="5" width="5" y="-22.5" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" ry="0"/>
-        <ellipse x="-22.6" antialias="false" height="8.00412" width="8.01176" y="-16" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <text x="-20.8" rotation="0" text="-" font="Sans Serif,9,-1,5,50,0,0,0,0,0" y="-8" color="#000000"/>
-        <terminal x="-18.5" name="Polo_Negativo" orientation="n" type="Generic" uuid="{08f45069-388c-47ad-beb8-455ffb46c9c1}" y="-22.5"/>
-        <terminal x="18.5" name="Polo_positivo" orientation="n" type="Generic" uuid="{5c47ec33-e27d-4d56-947b-f65fcaf59706}" y="-22.5"/>
+        <text color="#ff3c00" text="+" y="-7.5" font="Sans Serif,8,-1,5,50,0,0,0,0,0" x="14.4" rotation="0"/>
+        <ellipse y="-15" x="14.4" width="8.01176" style="line-style:normal;line-weight:normal;filling:none;color:black" height="8.00412" antialias="false"/>
+        <rect y="-22.5" x="16" ry="0" rx="0" width="5" style="line-style:normal;line-weight:normal;filling:none;color:black" height="5" antialias="false"/>
+        <rect y="-17.5" x="-25" ry="0" rx="0" width="50" style="line-style:normal;line-weight:normal;filling:none;color:black" height="35" antialias="false"/>
+        <rect y="-22.5" x="-21" ry="0" rx="0" width="5" style="line-style:normal;line-weight:normal;filling:none;color:black" height="5" antialias="false"/>
+        <ellipse y="-16" x="-22.6" width="8.01176" style="line-style:normal;line-weight:normal;filling:none;color:black" height="8.00412" antialias="false"/>
+        <text color="#000000" text="-" y="-8" font="Sans Serif,9,-1,5,50,0,0,0,0,0" x="-20.8" rotation="0"/>
+        <dynamic_text keep_visual_rotation="false" y="15" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_width="-1" x="-7.4" rotation="0" Halignment="AlignLeft" Valignment="AlignTop" z="8" frame="false" text_from="UserText" uuid="{48a0db80-7e77-4446-9d96-c8e3aa7047a6}">
+            <text>_</text>
+        </dynamic_text>
+        <terminal y="-22.5" x="18.5" orientation="n" name="Polo_positivo" uuid="{5c47ec33-e27d-4d56-947b-f65fcaf59706}" type="Generic"/>
+        <terminal y="-22.5" x="-18.5" orientation="n" name="Polo_Negativo" uuid="{08f45069-388c-47ad-beb8-455ffb46c9c1}" type="Generic"/>
     </description>
 </definition>
