@@ -1,22 +1,24 @@
-<definition width="40" type="element" hotspot_y="28" link_type="simple" hotspot_x="20" version="0.100.0" height="70">
-    <uuid uuid="{eee05f22-a171-429c-8bd5-56bd3c5676f9}"/>
+<definition hotspot_x="20" link_type="simple" version="0.100.0" width="40" hotspot_y="28" height="70" type="element">
+    <uuid uuid="{d9fff631-11b3-403a-af0f-8051accc596e}"/>
     <names>
-        <name lang="en">Turn Signal Relay (2 poles)</name>
         <name lang="pt">Relé de Seta (2 Polos)</name>
+        <name lang="en">Turn Signal Relay (2 poles)</name>
     </names>
     <elementInformations/>
     <informations></informations>
     <description>
-        <text y="19.6" color="#ff3c00" x="-14.5" rotation="0" font="Sans Serif,8,-1,5,50,0,0,0,0,0" text="+"/>
-        <ellipse width="8.01176" y="12.1" antialias="false" x="-14.5" height="8.00412" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <ellipse width="8.01176" y="12.4" antialias="false" x="7.1" height="8.00412" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <text y="20.4" color="#000000" x="8.9" rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text="-"/>
-        <rect rx="0" ry="0" width="35" y="-22.3" antialias="false" x="-17.6" height="45" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <rect rx="0" ry="0" width="30" y="22.8" antialias="false" x="-15" height="6.2" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <dynamic_text text_width="-1" keep_visual_rotation="false" z="7" y="-45" uuid="{e7a68689-f795-4c17-9b12-04f2d5509a1a}" Halignment="AlignLeft" x="-7.2" frame="false" rotation="0" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="UserText" Valignment="AlignTop">
+        <text color="#ff3c00" text="+" y="19.6" font="Sans Serif,8,-1,5,50,0,0,0,0,0" x="-14.5" rotation="0"/>
+        <ellipse y="12.1" x="-14.5" width="8.01176" style="line-style:normal;line-weight:normal;filling:none;color:black" height="8.00412" antialias="false"/>
+        <ellipse y="12.4" x="7.1" width="8.01176" style="line-style:normal;line-weight:normal;filling:none;color:black" height="8.00412" antialias="false"/>
+        <text color="#000000" text="-" y="20.4" font="Sans Serif,9,-1,5,50,0,0,0,0,0" x="8.9" rotation="0"/>
+        <rect y="-22.3" x="-17.6" ry="0" rx="0" width="35" style="line-style:normal;line-weight:normal;filling:none;color:black" height="45" antialias="false"/>
+        <rect y="22.8" x="-15" ry="0" rx="0" width="30" style="line-style:normal;line-weight:normal;filling:none;color:black" height="6.2" antialias="false"/>
+        <dynamic_text keep_visual_rotation="false" y="-45" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_width="-1" x="-7.2" rotation="0" Halignment="AlignLeft" Valignment="AlignTop" z="7" frame="false" text_from="UserText" uuid="{e7a68689-f795-4c17-9b12-04f2d5509a1a}">
             <text>_</text>
         </dynamic_text>
-        <terminal y="33.1" uuid="{93fee89d-4144-4488-96bb-2d9220433770}" type="Generic" x="-10" orientation="s" name=""/>
-        <terminal y="33.1" uuid="{72de86f6-1477-4a81-b487-627ffa9f74c4}" type="Generic" x="12" orientation="s" name=""/>
+        <text color="#000000" text="B" y="11.2" font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="-12.6" rotation="0"/>
+        <text color="#000000" text="L" y="11.5" font="Sans Serif,5,-1,5,50,0,0,0,0,0" x="9" rotation="0"/>
+        <terminal y="33.1" x="-10" orientation="s" name="" uuid="{93fee89d-4144-4488-96bb-2d9220433770}" type="Generic"/>
+        <terminal y="33.1" x="12" orientation="s" name="" uuid="{72de86f6-1477-4a81-b487-627ffa9f74c4}" type="Generic"/>
     </description>
 </definition>
