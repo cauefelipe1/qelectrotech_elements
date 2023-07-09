@@ -1,0 +1,27 @@
+<definition width="40" type="element" hotspot_y="28" link_type="simple" hotspot_x="20" version="0.100.0" height="90">
+    <uuid uuid="{fe5f843c-3327-48bf-8f88-252b0ab9bc5d}"/>
+    <names>
+        <name lang="en">Spark Plug</name>
+        <name lang="pt">Vela de Iginição</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect rx="0" ry="0" width="11.6" y="37" antialias="false" x="-5.8" height="14" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect rx="0" ry="0" width="10.2" y="-8.6" antialias="false" x="-5.1" height="26.3" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect rx="0" ry="0" width="27.6" y="17.8" antialias="false" x="-13.8" height="9.2" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect rx="0" ry="0" width="0" y="-16.3" antialias="false" x="0.1" height="5" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect rx="0" ry="0" width="2.2" y="-15.3" antialias="false" x="-1.1" height="6.7" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect rx="0" ry="0" width="20" y="27" antialias="false" x="-10.2" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect rx="0" ry="0" width="1" y="51" antialias="false" x="-0.4" height="3" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x2="3" y2="56" y1="51" end2="none" x1="3" antialias="false" length1="1.5" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x2="0" y2="56" y1="56" end2="none" x1="3" antialias="false" length1="1.5" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x2="-5.3" y2="41.2" y1="40.2" end2="none" x1="5.7" antialias="false" length1="1.5" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x2="-5.3" y2="44.2" y1="43.2" end2="none" x1="5.7" antialias="false" length1="1.5" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x2="-5.3" y2="47.2" y1="46.2" end2="none" x1="5.7" antialias="false" length1="1.5" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text text_width="-1" keep_visual_rotation="false" z="12" y="50.5" uuid="{c3da1ef1-9f85-48f0-b792-e43df615a499}" Halignment="AlignLeft" x="-7" frame="false" rotation="0" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="UserText" Valignment="AlignTop">
+            <text>_</text>
+        </dynamic_text>
+        <terminal y="-19.3" uuid="{3fa2adbb-1ee3-434c-82c5-62134a7ceef0}" type="Generic" x="0" orientation="n" name=""/>
+    </description>
+</definition>

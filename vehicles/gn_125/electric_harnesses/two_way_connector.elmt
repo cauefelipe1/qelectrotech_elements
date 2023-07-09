@@ -1,0 +1,17 @@
+<definition hotspot_y="15" width="40" version="0.100.0" link_type="simple" height="30" hotspot_x="20" type="element">
+    <uuid uuid="{0081faaf-23bc-4abc-8115-959fead0a634}"/>
+    <names>
+        <name lang="en">Two Way Connector</name>
+        <name lang="pt">Conector de Duas Vias</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect width="31.36" x="-15.64" antialias="false" y="1.88" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" ry="0" height="3.64"/>
+        <polygon x3="17.68" y6="-5.4" x7="-15.64" y7="-1.76" y10="1.88" x12="-15.64" y5="-5.4" x1="15.72" x11="-15.64" x5="15.72" y9="1.88" y4="-1.76" y1="1.88" y12="1.88" x10="-15.64" style="line-style:normal;line-weight:normal;filling:none;color:black" x8="-17.6" x2="17.68" x9="-17.6" y3="-1.76" antialias="false" x6="-15.64" y8="-1.76" x4="15.72" y11="1.88" y2="1.88" closed="false"/>
+        <terminal uuid="{13fd60b4-4a63-45b1-b8d7-4f0392f19835}" x="10" y="10.5" orientation="s" type="Generic" name=""/>
+        <terminal uuid="{319d3e67-9b2b-4940-a26b-52595e71b13d}" x="-10" y="10.5" orientation="s" type="Generic" name=""/>
+        <terminal uuid="{342172fb-5509-4290-8319-5fe8fa3992bc}" x="10" y="-10.4" orientation="n" type="Generic" name=""/>
+        <terminal uuid="{30c4c1e0-141a-4be7-a6be-9897fc98ceee}" x="-10" y="-10.4" orientation="n" type="Generic" name=""/>
+    </description>
+</definition>

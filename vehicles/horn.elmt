@@ -1,0 +1,25 @@
+<definition hotspot_y="36" width="50" hotspot_x="25" version="0.100.0" type="element" link_type="simple" height="60">
+    <uuid uuid="{a1d02339-7327-4da0-aff5-8012d42ff1c8}"/>
+    <names>
+        <name lang="en">Horn</name>
+        <name lang="pt">Buzina</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-14.7816" x1="14.6779" length2="1.5" x2="14.6779" end2="none" y2="-24.2107" antialias="false" length1="1.5"/>
+        <line end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-14.7816" x1="-14.5238" length2="1.5" x2="-14.5238" end2="none" y2="-24.2107" antialias="false" length1="1.5"/>
+        <ellipse y="-16.9565" style="line-style:normal;line-weight:normal;filling:none;color:black" width="34.7144" x="-17.2825" height="33.9827" antialias="false"/>
+        <ellipse y="-3.36341" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6.94287" x="-3.39673" height="6.79655" antialias="false"/>
+        <ellipse y="-20.3548" style="line-style:normal;line-weight:normal;filling:none;color:black" width="41.6572" x="-20.7539" height="40.7793" antialias="false"/>
+        <line end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-24.2099" x1="-14.5255" length2="1.5" x2="-9.18246" end2="none" y2="-24.2099" antialias="false" length1="1.5"/>
+        <line end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-24.2099" x1="9.33187" length2="1.5" x2="14.6749" end2="none" y2="-24.2099" antialias="false" length1="1.5"/>
+        <line end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-24.2099" x1="9.30579" length2="1.5" x2="9.30579" end2="none" y2="-18.3158" antialias="false" length1="1.5"/>
+        <line end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-24.2099" x1="-9.18246" length2="1.5" x2="-9.18246" end2="none" y2="-18.3158" antialias="false" length1="1.5"/>
+        <dynamic_text y="20.0514" keep_visual_rotation="false" frame="false" uuid="{39d0020d-6627-4863-a5ab-f8a7b5784310}" text_from="UserText" rotation="0" z="10" x="-7.3643" Halignment="AlignLeft" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_width="-1" Valignment="AlignTop">
+            <text>_</text>
+        </dynamic_text>
+        <terminal y="-29.1717" orientation="n" uuid="{ff9a0031-273e-4dbe-b85d-0c00bc33ab72}" name="" type="Generic" x="11.6924"/>
+        <terminal y="-29.1717" orientation="n" uuid="{5afe8d2c-449e-4269-a7eb-8c4b4eaf7873}" name="" type="Generic" x="-11.9596"/>
+    </description>
+</definition>

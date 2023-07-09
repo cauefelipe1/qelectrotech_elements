@@ -1,0 +1,21 @@
+<definition hotspot_y="29" width="90" hotspot_x="44" version="0.100.0" type="element" link_type="simple" height="70">
+    <uuid uuid="{cad5a2c0-989c-4193-a658-ad6dd022ecf1}"/>
+    <names>
+        <name lang="en">Rectifier/Regulator</name>
+        <name lang="pt">Regulador/Retificador</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect y="-25" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" width="80.75" rx="0" x="-40.3" height="50" antialias="false"/>
+        <dynamic_text y="-57" keep_visual_rotation="false" frame="false" uuid="{878dc7d8-9fda-4ddb-9aa1-9a4186c5e674}" text_from="UserText" rotation="0" z="2" x="-7" Halignment="AlignLeft" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_width="-1" Valignment="AlignTop">
+            <text>_</text>
+        </dynamic_text>
+        <rect y="25" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" width="76.5" rx="0" x="-38.26" height="5" antialias="false"/>
+        <terminal y="35" orientation="s" uuid="{fa2f278a-906f-401d-b1ed-a6458011e3a7}" name="" type="Generic" x="34.16"/>
+        <terminal y="35" orientation="s" uuid="{05b734f9-89ff-413e-9263-71013cfbecd2}" name="" type="Generic" x="20.56"/>
+        <terminal y="35" orientation="s" uuid="{f2e7021d-5c93-4663-8810-31176458fa21}" name="" type="Generic" x="-34.01"/>
+        <terminal y="35" orientation="s" uuid="{6d2619ef-9a23-4529-96bf-b6ce4d9f1d45}" name="" type="Generic" x="-6.81"/>
+        <terminal y="35" orientation="s" uuid="{a603438b-c5b7-47b2-8c92-5d8165e92484}" name="" type="Generic" x="-20.41"/>
+    </description>
+</definition>

@@ -1,0 +1,21 @@
+<definition version="0.100.0" height="80" width="100" type="element" hotspot_y="35" link_type="simple" hotspot_x="49">
+    <uuid uuid="{1a17e8c6-3fb7-499c-a13b-57611b0bad1d}"/>
+    <names>
+        <name lang="en">Ignitor</name>
+        <name lang="pt">CDI/Módulo de Ignição</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect height="60" ry="0" antialias="false" width="95" x="-47.4" y="-30" rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text uuid="{878dc7d8-9fda-4ddb-9aa1-9a4186c5e674}" text_width="-1" Halignment="AlignLeft" frame="false" x="-7" rotation="0" y="-57" text_from="UserText" Valignment="AlignTop" z="2" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" keep_visual_rotation="false">
+            <text>_</text>
+        </dynamic_text>
+        <rect height="3" ry="0" antialias="false" width="92" x="-46" y="30" rx="0" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <terminal uuid="{6d2619ef-9a23-4529-96bf-b6ce4d9f1d45}" name="" orientation="s" type="Generic" x="38.5" y="38"/>
+        <terminal uuid="{f2e7021d-5c93-4663-8810-31176458fa21}" name="" orientation="s" type="Generic" x="6.5" y="38"/>
+        <terminal uuid="{fa2f278a-906f-401d-b1ed-a6458011e3a7}" name="" orientation="s" type="Generic" x="-24" y="38"/>
+        <terminal uuid="{a603438b-c5b7-47b2-8c92-5d8165e92484}" name="" orientation="s" type="Generic" x="22.5" y="38"/>
+        <terminal uuid="{05b734f9-89ff-413e-9263-71013cfbecd2}" name="" orientation="s" type="Generic" x="-40" y="38"/>
+    </description>
+</definition>

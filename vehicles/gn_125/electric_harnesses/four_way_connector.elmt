@@ -1,0 +1,21 @@
+<definition hotspot_y="19" width="90" version="0.100.0" link_type="simple" height="40" hotspot_x="44" type="element">
+    <uuid uuid="{361719e0-5d90-4047-bac3-549c349824a2}"/>
+    <names>
+        <name lang="en">Four Way Connector</name>
+        <name lang="pt">Conector de Quatro Vias</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect width="68.208" x="-34.077" antialias="false" y="2.7572" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" ry="0" height="4.0131"/>
+        <polygon x3="38.394" y6="-5.269" x7="-34.077" y7="-1.2559" y10="2.7572" x12="-34.077" y5="-5.269" x1="34.131" x11="-34.077" x5="34.131" y9="2.7572" y4="-1.2559" y1="2.7572" y12="2.7572" x10="-34.077" style="line-style:normal;line-weight:normal;filling:none;color:black" x8="-38.34" x2="38.394" x9="-38.34" y3="-1.2559" antialias="false" x6="-34.077" y8="-1.2559" x4="34.131" y11="2.7572" y2="2.7572" closed="false"/>
+        <terminal uuid="{0bce79dc-f7ae-4aae-aa4a-e5962717c05d}" x="26.475" y="-10.219" orientation="n" type="Generic" name=""/>
+        <terminal uuid="{3634c5a8-cc5b-4043-9ee6-e76a13b7dc4b}" x="26.475" y="11.751" orientation="s" type="Generic" name=""/>
+        <terminal uuid="{342172fb-5509-4290-8319-5fe8fa3992bc}" x="-8.915" y="-10.219" orientation="n" type="Generic" name=""/>
+        <terminal uuid="{13fd60b4-4a63-45b1-b8d7-4f0392f19835}" x="-8.915" y="11.751" orientation="s" type="Generic" name=""/>
+        <terminal uuid="{30c4c1e0-141a-4be7-a6be-9897fc98ceee}" x="-27.32" y="-10.219" orientation="n" type="Generic" name=""/>
+        <terminal uuid="{319d3e67-9b2b-4940-a26b-52595e71b13d}" x="-27.32" y="11.751" orientation="s" type="Generic" name=""/>
+        <terminal uuid="{af63f0c6-1135-4d04-90e7-4c8638b2735b}" x="10.085" y="11.751" orientation="s" type="Generic" name=""/>
+        <terminal uuid="{887565a0-19aa-48e8-ba1e-c44247343a40}" x="10.085" y="-10.219" orientation="n" type="Generic" name=""/>
+    </description>
+</definition>

@@ -1,0 +1,23 @@
+<definition hotspot_y="22" link_type="simple" height="50" width="40" hotspot_x="19" version="0.100.0" type="element">
+    <uuid uuid="{fb4fb760-05cb-43d9-8d8d-9c05fa9da427}"/>
+    <names>
+        <name lang="pt">Lampada de Filamento Simples</name>
+        <name lang="en">Simple Filament Lamp</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <arc antialias="true" x="-1.36119" height="15.2895" style="line-style:normal;line-weight:normal;filling:none;color:black" angle="203.875" y="-5.989" start="359.563" width="10.7778"/>
+        <arc antialias="true" x="-1.43125" height="11.158" style="line-style:normal;line-weight:normal;filling:none;color:black" angle="79.6875" y="-5.06832" start="231.688" width="2.96411"/>
+        <line antialias="false" y1="2.21634" y2="9.8101" length1="1.5" x1="9.41663" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none" x2="9.41663" length2="1.5"/>
+        <arc antialias="true" x="-9.29486" height="15.2895" style="line-style:normal;line-weight:normal;filling:none;color:black" angle="202.688" y="-5.989" start="336.375" width="10.7778"/>
+        <line antialias="false" y1="2.01248" y2="9.8101" length1="1.5" x1="-9.29985" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none" x2="-9.29985" length2="1.5"/>
+        <arc antialias="true" x="-17.4281" height="30.5789" style="line-style:normal;line-weight:normal;filling:none;color:black" angle="262.688" y="-15.6723" start="318.625" width="34.9281"/>
+        <rect antialias="false" x="-12.9374" height="3.56754" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" y="9.8101" width="25.9466" rx="0"/>
+        <dynamic_text z="8" x="-30" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" frame="false" keep_visual_rotation="false" text_width="-1" text_from="UserText" Valignment="AlignTop" y="-26" uuid="{95dfbac8-0bdd-445a-b6ab-5c3c6dcf114b}" rotation="0">
+            <text>_</text>
+        </dynamic_text>
+        <terminal x="9.4" name="" y="18.37" uuid="{589bf488-4e95-4415-945f-b73d3078b980}" orientation="s" type="Generic"/>
+        <terminal x="-9.29" name="" y="18.37" uuid="{f44986c8-6de8-40f1-a9ef-1569f1dcf423}" orientation="s" type="Generic"/>
+    </description>
+</definition>

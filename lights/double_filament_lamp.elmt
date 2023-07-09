@@ -1,0 +1,28 @@
+<definition hotspot_y="28" link_type="simple" height="60" width="70" hotspot_x="35" version="0.100.0" type="element">
+    <uuid uuid="{0fc4c21d-95e6-4260-a99f-fa14921dea30}"/>
+    <names>
+        <name lang="pt">Lampada de Filamento Duplo</name>
+        <name lang="en">Double Filament Lamp</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <arc antialias="true" x="-12.033" height="16.9796" style="line-style:normal;line-weight:normal;filling:none;color:black" angle="203.875" y="-1.35235" start="359.563" width="11.974"/>
+        <arc antialias="true" x="8.76076" height="16.9796" style="line-style:normal;line-weight:normal;filling:none;color:black" angle="203.875" y="-1.35235" start="359.563" width="11.974"/>
+        <arc antialias="true" x="-12.1109" height="12.3914" style="line-style:normal;line-weight:normal;filling:none;color:black" angle="79.6875" y="-0.329893" start="231.688" width="3.29309"/>
+        <arc antialias="true" x="8.68293" height="12.3914" style="line-style:normal;line-weight:normal;filling:none;color:black" angle="79.6875" y="-0.329893" start="231.688" width="3.29309"/>
+        <line antialias="false" y1="7.76002" y2="16.1932" length1="1.5" x1="-0.0590023" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none" x2="-0.0590023" length2="1.5"/>
+        <line antialias="false" y1="7.76002" y2="16.1932" length1="1.5" x1="20.7348" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none" x2="20.7348" length2="1.5"/>
+        <arc antialias="true" x="-20.8473" height="16.9796" style="line-style:normal;line-weight:normal;filling:none;color:black" angle="202.688" y="-1.35235" start="336.375" width="11.974"/>
+        <arc antialias="true" x="-0.0534588" height="16.9796" style="line-style:normal;line-weight:normal;filling:none;color:black" angle="202.688" y="-1.35235" start="336.375" width="11.974"/>
+        <line antialias="false" y1="7.53363" y2="16.1932" length1="1.5" x1="-20.8528" style="line-style:normal;line-weight:normal;filling:none;color:black" end1="none" end2="none" x2="-20.8528" length2="1.5"/>
+        <arc antialias="true" x="-29.1071" height="48.1088" style="line-style:normal;line-weight:normal;filling:none;color:black" angle="262.688" y="-23.9918" start="318.625" width="58.2071"/>
+        <rect antialias="false" x="-21.5679" height="3.9619" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" y="16.1932" width="43.2396" rx="0"/>
+        <dynamic_text z="12" x="-44" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" Halignment="AlignLeft" frame="false" keep_visual_rotation="false" text_width="-1" text_from="UserText" Valignment="AlignTop" y="-32" uuid="{ca4ca28a-3096-46fb-866d-6fcdaa4fd027}" rotation="0">
+            <text>_</text>
+        </dynamic_text>
+        <terminal x="-0.0590023" name="Common Negative Terminal" y="25.085" uuid="{589bf488-4e95-4415-945f-b73d3078b980}" orientation="s" type="Generic"/>
+        <terminal x="-20.8473" name="Filament 1 Positive Terminal" y="25.085" uuid="{f44986c8-6de8-40f1-a9ef-1569f1dcf423}" orientation="s" type="Generic"/>
+        <terminal x="20.7293" name="Filament 2 Positive Terminal" y="25.085" uuid="{b76f56fb-cdb0-4f1a-976e-3deb47209b58}" orientation="s" type="Generic"/>
+    </description>
+</definition>

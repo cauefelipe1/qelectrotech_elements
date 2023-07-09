@@ -1,0 +1,24 @@
+<definition width="70" type="element" hotspot_y="26" link_type="simple" hotspot_x="45" version="0.100.0" height="70">
+    <uuid uuid="{251af9a4-9dad-4776-96fd-f8c04e632334}"/>
+    <names>
+        <name lang="en">Ignition Coil</name>
+        <name lang="pt">Bobina de Ignição</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect rx="0" ry="0" width="10" y="22.6" antialias="false" x="5" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect rx="0" ry="0" width="40" y="-22.4" antialias="false" x="-20" height="45" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x2="5.6" y2="32.1" y1="23.1" end2="none" x1="14.6" antialias="false" length1="1.5" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <rect rx="0" ry="0" width="10" y="22.6" antialias="false" x="-15" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x2="-14.4" y2="32.1" y1="23.1" end2="none" x1="-5.4" antialias="false" length1="1.5" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x2="-35" y2="-12.4" y1="-12.4" end2="none" x1="-20" antialias="false" length1="1.5" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x2="-35" y2="7.6" y1="-12.4" end2="none" x1="-35" antialias="false" length1="1.5" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <polygon x2="-30" y2="7.6" y1="7.6" y5="7.6" y4="7.6" x1="-35" antialias="false" x3="-35" x4="-40" y3="13.6" x5="-36" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text text_width="-1" keep_visual_rotation="false" z="7" y="-45.6" uuid="{96a6e678-efd5-4034-887d-967b3e64809e}" Halignment="AlignLeft" x="-7.2" frame="false" rotation="0" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="UserText" Valignment="AlignTop">
+            <text>_</text>
+        </dynamic_text>
+        <terminal y="37" uuid="{e7bc16e3-00a5-489b-9e9a-3a33be8246c0}" type="Generic" x="-10" orientation="s" name=""/>
+        <terminal y="37" uuid="{55865bfa-addd-4640-87fc-d57b8c481d66}" type="Generic" x="10" orientation="s" name=""/>
+    </description>
+</definition>

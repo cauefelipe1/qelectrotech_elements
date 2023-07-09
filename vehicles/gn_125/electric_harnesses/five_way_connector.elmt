@@ -1,0 +1,23 @@
+<definition hotspot_y="22" width="100" version="0.100.0" link_type="simple" height="40" hotspot_x="50" type="element">
+    <uuid uuid="{32d46740-f336-4185-9907-bb33e68ddfb4}"/>
+    <names>
+        <name lang="en">Five Way Connector</name>
+        <name lang="pt">Conector de Cinco Vias</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect width="85.26" x="-42.5113" antialias="false" y="-0.4428" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" ry="0" height="4.0131"/>
+        <polygon x3="48.0775" y6="-8.469" x7="-42.5112" y7="-4.4559" y10="-0.4428" x12="-42.5112" y5="-8.469" x1="42.7488" x11="-42.5112" x5="42.7488" y9="-0.4428" y4="-4.4559" y1="-0.4428" y12="-0.4428" x10="-42.5112" style="line-style:normal;line-weight:normal;filling:none;color:black" x8="-47.84" x2="48.0775" x9="-47.84" y3="-4.4559" antialias="false" x6="-42.5112" y8="-4.4559" x4="42.7488" y11="-0.4428" y2="-0.4428" closed="false"/>
+        <terminal uuid="{30c4c1e0-141a-4be7-a6be-9897fc98ceee}" x="-36.82" y="-13.419" orientation="n" type="Generic" name=""/>
+        <terminal uuid="{0bce79dc-f7ae-4aae-aa4a-e5962717c05d}" x="16.975" y="-13.419" orientation="n" type="Generic" name=""/>
+        <terminal uuid="{887565a0-19aa-48e8-ba1e-c44247343a40}" x="0.085" y="-13.419" orientation="n" type="Generic" name=""/>
+        <terminal uuid="{342172fb-5509-4290-8319-5fe8fa3992bc}" x="-18.415" y="-13.419" orientation="n" type="Generic" name=""/>
+        <terminal uuid="{3634c5a8-cc5b-4043-9ee6-e76a13b7dc4b}" x="16.975" y="8.551" orientation="s" type="Generic" name=""/>
+        <terminal uuid="{13fd60b4-4a63-45b1-b8d7-4f0392f19835}" x="-18.415" y="8.551" orientation="s" type="Generic" name=""/>
+        <terminal uuid="{af63f0c6-1135-4d04-90e7-4c8638b2735b}" x="0.085" y="8.551" orientation="s" type="Generic" name=""/>
+        <terminal uuid="{319d3e67-9b2b-4940-a26b-52595e71b13d}" x="-36.82" y="8.551" orientation="s" type="Generic" name=""/>
+        <terminal uuid="{0982be6d-8c64-4284-bd50-6589f6925247}" x="34.875" y="-13.419" orientation="n" type="Generic" name=""/>
+        <terminal uuid="{a95e9e39-83cb-4eb4-b9f4-2a4a8c2dec3c}" x="34.875" y="8.551" orientation="s" type="Generic" name=""/>
+    </description>
+</definition>

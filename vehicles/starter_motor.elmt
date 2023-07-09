@@ -1,0 +1,24 @@
+<definition hotspot_y="54" width="50" hotspot_x="25" version="0.100.0" type="element" link_type="simple" height="110">
+    <uuid uuid="{3954a982-1d75-4f7e-90ea-88d69d7ce831}"/>
+    <names>
+        <name lang="en">Starter Motor</name>
+        <name lang="pt">Motor de Partida</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="42.9" x1="-15" length2="1.5" x2="-15" end2="none" y2="13.9" antialias="false" length1="1.5"/>
+        <circle y="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-20" diameter="40" antialias="false"/>
+        <line end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="42.9" x1="-15" length2="1.5" x2="15" end2="none" y2="42.9" antialias="false" length1="1.5"/>
+        <line end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-13.9" x1="-15" length2="1.5" x2="-15" end2="none" y2="-42.9" antialias="false" length1="1.5"/>
+        <line end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="13.9" x1="15" length2="1.5" x2="15" end2="none" y2="42.9" antialias="false" length1="1.5"/>
+        <line end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-42.9" x1="-15" length2="1.5" x2="15" end2="none" y2="-42.9" antialias="false" length1="1.5"/>
+        <line end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-42.9" x1="15" length2="1.5" x2="15" end2="none" y2="-13.9" antialias="false" length1="1.5"/>
+        <dynamic_text y="10" keep_visual_rotation="false" frame="false" uuid="{bad0e020-09c5-45e2-a061-b0415ba6aa3d}" text_from="UserText" rotation="0" z="7" x="30" Halignment="AlignLeft" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_width="-1" Valignment="AlignTop">
+            <text>_</text>
+        </dynamic_text>
+        <text y="12.3" text="M" rotation="0" color="#000000" x="-13.8" font="MS Shell Dlg 2,23,-1,5,75,0,0,0,0,0,Bold"/>
+        <terminal y="47.9" orientation="s" uuid="{7513bf8a-259d-410f-bcc1-f38825cf2cd8}" name="" type="Generic" x="0"/>
+        <terminal y="-47.9" orientation="n" uuid="{11f16854-d704-4d59-be30-7d3b7288b67e}" name="" type="Generic" x="0"/>
+    </description>
+</definition>

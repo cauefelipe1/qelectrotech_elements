@@ -1,0 +1,27 @@
+<definition hotspot_y="24" width="130" version="0.100.0" link_type="simple" height="40" hotspot_x="65" type="element">
+    <uuid uuid="{8e0325f2-4468-4098-a3be-a7b7ed8cd5af}"/>
+    <names>
+        <name lang="en">Seven Way Connector</name>
+        <name lang="pt">Conector de Sete Vias</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect width="106.575" x="-53.2678" antialias="false" y="-2.02619" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" ry="0" height="4.21376"/>
+        <polygon x3="59.9682" y6="-10.4537" x7="-53.2677" y7="-6.23994" y10="-2.02619" x12="-53.2677" y5="-10.4537" x1="53.3073" x11="-53.2677" x5="53.3073" y9="-2.02619" y4="-6.23994" y1="-2.02619" y12="-2.02619" x10="-53.2677" style="line-style:normal;line-weight:normal;filling:none;color:black" x8="-59.9287" x2="59.9682" x9="-59.9287" y3="-6.23994" antialias="false" x6="-53.2677" y8="-6.23994" x4="53.3073" y11="-2.02619" y2="-2.02619" closed="false"/>
+        <terminal uuid="{30c4c1e0-141a-4be7-a6be-9897fc98ceee}" x="-46.8537" y="-15.4512" orientation="n" type="Generic" name=""/>
+        <terminal uuid="{0bce79dc-f7ae-4aae-aa4a-e5962717c05d}" x="-0.00995" y="-15.4512" orientation="n" type="Generic" name=""/>
+        <terminal uuid="{887565a0-19aa-48e8-ba1e-c44247343a40}" x="-17.0224" y="-15.4512" orientation="n" type="Generic" name=""/>
+        <terminal uuid="{0982be6d-8c64-4284-bd50-6589f6925247}" x="16.865" y="-15.4512" orientation="n" type="Generic" name=""/>
+        <terminal uuid="{af63f0c6-1135-4d04-90e7-4c8638b2735b}" x="-17.0224" y="7.1173" orientation="s" type="Generic" name=""/>
+        <terminal uuid="{a95e9e39-83cb-4eb4-b9f4-2a4a8c2dec3c}" x="16.865" y="7.1173" orientation="s" type="Generic" name=""/>
+        <terminal uuid="{13fd60b4-4a63-45b1-b8d7-4f0392f19835}" x="-32.1475" y="7.1173" orientation="s" type="Generic" name=""/>
+        <terminal uuid="{3634c5a8-cc5b-4043-9ee6-e76a13b7dc4b}" x="-0.00995" y="7.1173" orientation="s" type="Generic" name=""/>
+        <terminal uuid="{342172fb-5509-4290-8319-5fe8fa3992bc}" x="-32.1475" y="-15.4512" orientation="n" type="Generic" name=""/>
+        <terminal uuid="{319d3e67-9b2b-4940-a26b-52595e71b13d}" x="-46.8537" y="7.1173" orientation="s" type="Generic" name=""/>
+        <terminal uuid="{30f4ccf9-9f3b-4fc0-a417-2e348ed94708}" x="33.065" y="-15.4512" orientation="n" type="Generic" name=""/>
+        <terminal uuid="{ba2ead0c-13d3-4344-9aa3-4abc029d89ee}" x="33.065" y="7.1173" orientation="s" type="Generic" name=""/>
+        <terminal uuid="{b45cbc1a-b2da-4b82-9407-154656b58812}" x="47.465" y="-15.4512" orientation="n" type="Generic" name=""/>
+        <terminal uuid="{a4e8e3bb-b86c-4c1b-8ae1-f0a5d699364b}" x="47.465" y="7.1173" orientation="s" type="Generic" name=""/>
+    </description>
+</definition>

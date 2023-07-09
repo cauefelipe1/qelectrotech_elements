@@ -1,0 +1,29 @@
+<definition hotspot_y="35" width="60" hotspot_x="27" version="0.100.0" type="element" link_type="simple" height="70">
+    <uuid uuid="{7335f573-c796-4577-835b-92ca1a71dd0b}"/>
+    <names>
+        <name lang="en">Starter Relay</name>
+        <name lang="pt">Relé de Partida</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <arc y="-6.59067" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6.48422" start="90" x="10.7579" height="6.56356" angle="180" antialias="true"/>
+        <arc y="6.53644" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6.48422" start="90" x="10.7579" height="6.56356" angle="180" antialias="true"/>
+        <line end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="13.1" x1="14.4" length2="1.5" x2="24.2" end2="none" y2="13.1" antialias="false" length1="1.5"/>
+        <rect y="-29.8" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" width="50" rx="0" x="-25" height="60" antialias="false"/>
+        <circle y="8.2" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-15.9" diameter="7" antialias="false"/>
+        <arc y="-0.0271144" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6.48422" start="90" x="10.7579" height="6.56356" angle="180" antialias="true"/>
+        <line end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-15" x1="-20" length2="1.5" x2="-20" end2="none" y2="15" antialias="false" length1="1.5"/>
+        <line end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="0" x1="-20" length2="1.5" x2="-5" end2="none" y2="0" antialias="false" length1="1.5"/>
+        <circle y="-14.9" style="line-style:normal;line-weight:normal;filling:none;color:black" x="-15.9" diameter="7" antialias="false"/>
+        <arc y="-13.1542" style="line-style:normal;line-weight:normal;filling:none;color:black" width="6.48422" start="90" x="10.7579" height="6.56356" angle="180" antialias="true"/>
+        <line end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black" y1="-13.15" x1="14.5" length2="1.5" x2="24.3" end2="none" y2="-13.15" antialias="false" length1="1.5"/>
+        <dynamic_text y="30.5" keep_visual_rotation="false" frame="false" uuid="{581722c3-64a0-45fd-87be-f2b2d11cd056}" text_from="UserText" rotation="0" z="12" x="-7.3" Halignment="AlignLeft" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_width="-1" Valignment="AlignTop">
+            <text>_</text>
+        </dynamic_text>
+        <terminal y="-13.1" orientation="e" uuid="{b08c2ae8-2347-4505-9269-589817f2022b}" name="" type="Generic" x="28.1"/>
+        <terminal y="-19.8" orientation="n" uuid="{9baeca1e-7919-497c-9011-f6bcb928c592}" name="" type="Generic" x="-12.4"/>
+        <terminal y="20.1" orientation="s" uuid="{fd279612-c60d-4138-8a64-598fc4ace9e3}" name="" type="Generic" x="-12.4"/>
+        <terminal y="13.1" orientation="e" uuid="{28b5b4fa-fb6c-4c93-b1bc-d2b6f257a772}" name="" type="Generic" x="28.1"/>
+    </description>
+</definition>

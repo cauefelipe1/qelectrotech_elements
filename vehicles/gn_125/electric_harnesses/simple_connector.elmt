@@ -1,0 +1,15 @@
+<definition hotspot_y="19" width="10" version="0.100.0" link_type="simple" height="40" hotspot_x="5" type="element">
+    <uuid uuid="{97f98309-08b5-4208-9f87-b4d67ca3c1fe}"/>
+    <names>
+        <name lang="en">Simple Connector</name>
+        <name lang="pt">Conector Simples</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect width="6" x="-3" antialias="false" y="-6" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" ry="0" height="12"/>
+        <polygon y1="-6" x3="0" y5="-6" x6="3" x2="-3" x5="3" closed="false" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" y2="-5" x1="-3" x4="3" y4="-5" y3="0" y6="-6"/>
+        <terminal uuid="{13fd60b4-4a63-45b1-b8d7-4f0392f19835}" x="0" y="11" orientation="s" type="Generic" name=""/>
+        <terminal uuid="{342172fb-5509-4290-8319-5fe8fa3992bc}" x="0" y="-11" orientation="n" type="Generic" name=""/>
+    </description>
+</definition>

@@ -1,0 +1,19 @@
+<definition hotspot_y="15" width="60" version="0.100.0" link_type="simple" height="30" hotspot_x="29" type="element">
+    <uuid uuid="{96bb2551-81a5-40da-946e-8b882e5da7ca}"/>
+    <names>
+        <name lang="en">Three Way Connector</name>
+        <name lang="pt">Conector de Três Vias</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect width="47.04" x="-23.46" antialias="false" y="2.244" style="line-style:normal;line-weight:normal;filling:none;color:black" rx="0" ry="0" height="3.822"/>
+        <polygon x3="26.52" y6="-5.4" x7="-23.46" y7="-1.578" y10="2.244" x12="-23.46" y5="-5.4" x1="23.58" x11="-23.46" x5="23.58" y9="2.244" y4="-1.578" y1="2.244" y12="2.244" x10="-23.46" style="line-style:normal;line-weight:normal;filling:none;color:black" x8="-26.4" x2="26.52" x9="-26.4" y3="-1.578" antialias="false" x6="-23.46" y8="-1.578" x4="23.58" y11="2.244" y2="2.244" closed="false"/>
+        <terminal uuid="{13fd60b4-4a63-45b1-b8d7-4f0392f19835}" x="0.1" y="11" orientation="s" type="Generic" name=""/>
+        <terminal uuid="{30c4c1e0-141a-4be7-a6be-9897fc98ceee}" x="-18.8" y="-10.4" orientation="n" type="Generic" name=""/>
+        <terminal uuid="{319d3e67-9b2b-4940-a26b-52595e71b13d}" x="-18.8" y="11" orientation="s" type="Generic" name=""/>
+        <terminal uuid="{342172fb-5509-4290-8319-5fe8fa3992bc}" x="0.1" y="-10.4" orientation="n" type="Generic" name=""/>
+        <terminal uuid="{0bce79dc-f7ae-4aae-aa4a-e5962717c05d}" x="18.3" y="-10.4" orientation="n" type="Generic" name=""/>
+        <terminal uuid="{3634c5a8-cc5b-4043-9ee6-e76a13b7dc4b}" x="18.3" y="11" orientation="s" type="Generic" name=""/>
+    </description>
+</definition>

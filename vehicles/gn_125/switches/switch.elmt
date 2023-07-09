@@ -1,0 +1,25 @@
+<definition width="90" type="element" hotspot_y="26" link_type="simple" hotspot_x="45" version="0.100.0" height="60">
+    <uuid uuid="{b7d1bad4-6ec7-4f2d-84a7-19f53581aeff}"/>
+    <names>
+        <name lang="en">Switch</name>
+        <name lang="pt">Interruptor</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect rx="0" ry="0" width="78.5" y="-20" antialias="false" x="-39.2" height="40" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle diameter="12" y="-15.8" antialias="false" x="19.7" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <circle diameter="12" y="-15.8" antialias="false" x="-6.3" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x2="38.7" y2="0" y1="0" end2="none" x1="-38.7" antialias="false" length1="1.5" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <dynamic_text text_width="-1" keep_visual_rotation="false" z="12" y="-43.4" uuid="{c273b99e-3ab2-4563-8b27-31d657899b12}" Halignment="AlignLeft" x="-7.4" frame="false" rotation="0" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="UserText" Valignment="AlignTop">
+            <text>_</text>
+        </dynamic_text>
+        <line x2="13.3" y2="20" y1="-20" end2="none" x1="13.3" antialias="false" length1="1.5" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x2="-12.7" y2="20" y1="-20" end2="none" x1="-12.7" antialias="false" length1="1.5" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <line x2="19.7" y2="-10" y1="-10" end2="none" x1="5.7" antialias="false" length1="1.5" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
+        <text y="-5" color="#000000" x="-34.4" rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text="ON"/>
+        <text y="15" color="#000000" x="-36.7" rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text="OFF"/>
+        <terminal y="25" uuid="{74f437e7-9404-4f8c-b282-166bcb0bd61b}" type="Generic" x="-0.7" orientation="s" name=""/>
+        <terminal y="25" uuid="{0a07ad7e-4285-4026-b1b0-dd320f014639}" type="Generic" x="25.3" orientation="s" name=""/>
+    </description>
+</definition>
