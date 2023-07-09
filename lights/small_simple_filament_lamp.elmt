@@ -1,0 +1,22 @@
+<definition hotspot_y="14" link_type="simple" width="30" hotspot_x="15" type="element" version="0.100.0" height="30">
+    <uuid uuid="{d00e9864-2546-4b71-9312-fa450f472364}"/>
+    <names>
+        <name lang="en">Small Simple Filament Lamp</name>
+        <name lang="pt">Lampada de Filamento Simples Pequena</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <arc x="-0.934294" angle="203.875" antialias="true" y="-4.433" width="7.3689" style="line-style:normal;line-weight:normal;filling:none;color:black" height="12.0886" start="359.563"/>
+        <arc x="-0.982199" angle="79.6875" antialias="true" y="-3.70507" width="2.02659" style="line-style:normal;line-weight:normal;filling:none;color:black" height="8.82209" start="231.688"/>
+        <line antialias="false" y1="2.05456" end2="none" x2="6.4346" y2="8.05856" x1="6.4346" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" end1="none"/>
+        <arc x="-6.35862" angle="202.688" antialias="true" y="-4.433" width="7.3689" style="line-style:normal;line-weight:normal;filling:none;color:black" height="12.0886" start="336.375"/>
+        <line antialias="false" y1="1.89338" end2="none" x2="-6.36203" y2="8.05856" x1="-6.36203" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" end1="none"/>
+        <arc x="-11.9194" angle="358.313" antialias="true" y="-12.0891" width="23.8807" style="line-style:normal;line-weight:normal;filling:none;color:black" height="24.1773" start="271.125"/>
+        <dynamic_text x="7" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="UserText" y="-7" uuid="{556d241a-0c16-4ce1-a98d-4a1cb0e3fe6b}" rotation="0" frame="false" text_width="-1" keep_visual_rotation="false" Halignment="AlignLeft" Valignment="AlignTop" z="7">
+            <text>_</text>
+        </dynamic_text>
+        <terminal x="-6.35373" name="" y="11.2606" uuid="{f44986c8-6de8-40f1-a9ef-1569f1dcf423}" type="Generic" orientation="s"/>
+        <terminal x="6.4346" name="" y="11.2822" uuid="{589bf488-4e95-4415-945f-b73d3078b980}" type="Generic" orientation="s"/>
+    </description>
+</definition>

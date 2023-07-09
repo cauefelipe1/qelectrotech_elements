@@ -1,0 +1,12 @@
+<definition hotspot_y="10" link_type="simple" width="20" hotspot_x="11" type="element" version="0.100.0" height="20">
+    <uuid uuid="{70efcfa8-17dc-4d3b-9924-c8153957e72f}"/>
+    <names>
+        <name lang="en">Turn Signal Symbol</name>
+        <name lang="pt">Símbolo Seta</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <polygon y6="-1.59305" x4="-2.2367" x3="-2.2367" y1="-3.71705" y5="1.59301" y8="-1.59305" x7="-2.2367" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-2.2367" x8="-2.2367" y7="-1.59305" x6="4.3101" antialias="false" y4="1.59301" x2="-5.5101" y2="-4.5e-05" y3="3.71704" x5="4.3101"/>
+    </description>
+</definition>
