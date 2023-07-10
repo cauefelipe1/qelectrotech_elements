@@ -1,5 +1,5 @@
-<definition width="90" type="element" hotspot_y="26" link_type="simple" hotspot_x="45" version="0.100.0" height="60">
-    <uuid uuid="{b7d1bad4-6ec7-4f2d-84a7-19f53581aeff}"/>
+<definition hotspot_x="25" type="element" hotspot_y="16" width="50" height="40" version="0.100.0" link_type="simple">
+    <uuid uuid="{ebf2ae25-2b6c-4990-8d90-4a27745c822d}"/>
     <names>
         <name lang="en">Switch</name>
         <name lang="pt">Interruptor</name>
@@ -7,19 +7,19 @@
     <elementInformations/>
     <informations></informations>
     <description>
-        <rect rx="0" ry="0" width="78.5" y="-20" antialias="false" x="-39.2" height="40" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <circle diameter="12" y="-15.8" antialias="false" x="19.7" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <circle diameter="12" y="-15.8" antialias="false" x="-6.3" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <line x2="38.7" y2="0" y1="0" end2="none" x1="-38.7" antialias="false" length1="1.5" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <dynamic_text text_width="-1" keep_visual_rotation="false" z="12" y="-43.4" uuid="{c273b99e-3ab2-4563-8b27-31d657899b12}" Halignment="AlignLeft" x="-7.4" frame="false" rotation="0" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="UserText" Valignment="AlignTop">
+        <rect style="line-style:normal;line-weight:normal;filling:none;color:black" width="44.2126" height="24.1231" rx="0" ry="0" x="-22.0126" y="-11.5817" antialias="false"/>
+        <ellipse style="line-style:normal;line-weight:normal;filling:none;color:black" width="6.75862" height="7.23693" x="11.1609" y="-9.04878" antialias="false"/>
+        <ellipse style="line-style:normal;line-weight:normal;filling:none;color:black" width="6.75862" height="7.23693" x="-3.48275" y="-9.04878" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-21.7311" x2="21.8621" end1="none" end2="none" length1="1.5" length2="1.5" y1="0.479869" y2="0.479869" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x1="7.55634" x2="7.55634" end1="none" end2="none" length1="1.5" length2="1.5" y1="-11.5817" y2="12.5414" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-7.08732" x2="-7.08732" end1="none" end2="none" length1="1.5" length2="1.5" y1="-11.5817" y2="12.5414" antialias="false"/>
+        <line style="line-style:normal;line-weight:normal;filling:none;color:black" x1="3.27587" x2="11.1609" end1="none" end2="none" length1="1.5" length2="1.5" y1="-5.55091" y2="-5.55091" antialias="false"/>
+        <text color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" x="-19.3" y="-3.2" rotation="0" text="ON"/>
+        <text color="#000000" font="Sans Serif,6,-1,5,50,0,0,0,0,0" x="-21" y="9.6" rotation="0" text="OFF"/>
+        <dynamic_text font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" Valignment="AlignTop" text_from="UserText" frame="false" Halignment="AlignLeft" uuid="{c273b99e-3ab2-4563-8b27-31d657899b12}" text_width="-1" x="-5.3" y="-30.7" z="12" rotation="0" keep_visual_rotation="false">
             <text>_</text>
         </dynamic_text>
-        <line x2="13.3" y2="20" y1="-20" end2="none" x1="13.3" antialias="false" length1="1.5" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <line x2="-12.7" y2="20" y1="-20" end2="none" x1="-12.7" antialias="false" length1="1.5" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <line x2="19.7" y2="-10" y1="-10" end2="none" x1="5.7" antialias="false" length1="1.5" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <text y="-5" color="#000000" x="-34.4" rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text="ON"/>
-        <text y="15" color="#000000" x="-36.7" rotation="0" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text="OFF"/>
-        <terminal y="25" uuid="{74f437e7-9404-4f8c-b282-166bcb0bd61b}" type="Generic" x="-0.7" orientation="s" name=""/>
-        <terminal y="25" uuid="{0a07ad7e-4285-4026-b1b0-dd320f014639}" type="Generic" x="25.3" orientation="s" name=""/>
+        <terminal type="Generic" orientation="s" name="" uuid="{0a07ad7e-4285-4026-b1b0-dd320f014639}" x="14.3149" y="16.8168"/>
+        <terminal type="Generic" orientation="s" name="" uuid="{74f437e7-9404-4f8c-b282-166bcb0bd61b}" x="-0.328728" y="16.8168"/>
     </description>
 </definition>
