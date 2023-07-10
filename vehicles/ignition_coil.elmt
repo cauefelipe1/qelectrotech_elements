@@ -1,5 +1,5 @@
-<definition width="70" type="element" hotspot_y="26" link_type="simple" hotspot_x="45" version="0.100.0" height="70">
-    <uuid uuid="{251af9a4-9dad-4776-96fd-f8c04e632334}"/>
+<definition hotspot_y="22" link_type="simple" width="60" hotspot_x="37" type="element" version="0.100.0" height="60">
+    <uuid uuid="{aa628883-c468-4bc3-b986-130685e76c21}"/>
     <names>
         <name lang="en">Ignition Coil</name>
         <name lang="pt">Bobina de Ignição</name>
@@ -7,18 +7,19 @@
     <elementInformations/>
     <informations></informations>
     <description>
-        <rect rx="0" ry="0" width="10" y="22.6" antialias="false" x="5" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <rect rx="0" ry="0" width="40" y="-22.4" antialias="false" x="-20" height="45" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <line x2="5.6" y2="32.1" y1="23.1" end2="none" x1="14.6" antialias="false" length1="1.5" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <rect rx="0" ry="0" width="10" y="22.6" antialias="false" x="-15" height="10" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <line x2="-14.4" y2="32.1" y1="23.1" end2="none" x1="-5.4" antialias="false" length1="1.5" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <line x2="-35" y2="-12.4" y1="-12.4" end2="none" x1="-20" antialias="false" length1="1.5" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <line x2="-35" y2="7.6" y1="-12.4" end2="none" x1="-35" antialias="false" length1="1.5" length2="1.5" end1="none" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <polygon x2="-30" y2="7.6" y1="7.6" y5="7.6" y4="7.6" x1="-35" antialias="false" x3="-35" x4="-40" y3="13.6" x5="-36" style="line-style:normal;line-weight:normal;filling:none;color:black"/>
-        <dynamic_text text_width="-1" keep_visual_rotation="false" z="7" y="-45.6" uuid="{96a6e678-efd5-4034-887d-967b3e64809e}" Halignment="AlignLeft" x="-7.2" frame="false" rotation="0" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="UserText" Valignment="AlignTop">
+        <rect x="3.95754" antialias="false" y="16.3807" width="7.82831" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" height="7.28952"/>
+        <rect x="-15.6132" antialias="false" y="-16.4221" width="31.3132" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" height="32.8028"/>
+        <line antialias="false" y1="16.7452" end2="none" x2="4.42723" y2="23.3058" x1="11.4727" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" end1="none"/>
+        <rect x="-11.6991" antialias="false" y="16.3807" width="7.82831" rx="0" ry="0" style="line-style:normal;line-weight:normal;filling:none;color:black" height="7.28952"/>
+        <line antialias="false" y1="16.7452" end2="none" x2="-11.2294" y2="23.3058" x1="-4.1839" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" end1="none"/>
+        <line antialias="false" y1="-9.13258" end2="none" x2="-27.3557" y2="-9.13258" x1="-15.6132" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" end1="none"/>
+        <dynamic_text x="-6" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="UserText" y="-40" uuid="{96a6e678-efd5-4034-887d-967b3e64809e}" rotation="0" frame="false" text_width="-1" keep_visual_rotation="false" Halignment="AlignLeft" Valignment="AlignTop" z="7">
             <text>_</text>
         </dynamic_text>
-        <terminal y="37" uuid="{e7bc16e3-00a5-489b-9e9a-3a33be8246c0}" type="Generic" x="-10" orientation="s" name=""/>
-        <terminal y="37" uuid="{55865bfa-addd-4640-87fc-d57b8c481d66}" type="Generic" x="10" orientation="s" name=""/>
+        <line antialias="false" y1="-9.13258" end2="none" x2="-27.3557" y2="5.44645" x1="-27.3557" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" end1="none"/>
+        <polygon y3="9.82016" antialias="false" y1="5.44645" y5="5.44645" x3="-27.3557" y4="5.44645" x2="-23.4415" y2="5.44645" x1="-27.3557" style="line-style:normal;line-weight:normal;filling:none;color:black" x4="-31.2699" x5="-28.1385"/>
+        <terminal x="-7.78493" name="" y="28.1776" uuid="{e7bc16e3-00a5-489b-9e9a-3a33be8246c0}" type="Generic" orientation="s"/>
+        <terminal x="7.87169" name="" y="28.1776" uuid="{55865bfa-addd-4640-87fc-d57b8c481d66}" type="Generic" orientation="s"/>
+        <terminal x="-27.4" name="" y="13.5" uuid="{d8bb62d2-7ccc-44d6-846d-774bf8093bf2}" type="Generic" orientation="s"/>
     </description>
 </definition>
