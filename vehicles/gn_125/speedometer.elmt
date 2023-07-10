@@ -1,0 +1,23 @@
+<definition hotspot_y="23" link_type="simple" width="50" hotspot_x="22" type="element" version="0.100.0" height="50">
+    <uuid uuid="{ac860139-73f1-45c5-ac66-2dc88fa694b1}"/>
+    <names>
+        <name lang="en">Speedometer</name>
+        <name lang="pt">Velocímetro</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <arc x="-9.098" angle="203.875" antialias="true" y="9.88357" width="2.75412" style="line-style:normal;line-weight:normal;filling:none;color:black" height="4.17879" start="359.563"/>
+        <arc x="-9.1159" angle="79.6875" antialias="true" y="10.1352" width="0.757438" style="line-style:normal;line-weight:normal;filling:none;color:black" height="3.04963" start="231.688"/>
+        <line antialias="false" y1="12.1262" end2="none" x2="-6.3439" y2="14.2016" x1="-6.3439" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" end1="none"/>
+        <arc x="-11.1253" angle="202.688" antialias="true" y="9.88357" width="2.75412" style="line-style:normal;line-weight:normal;filling:none;color:black" height="4.17879" start="336.375"/>
+        <line antialias="false" y1="12.0705" end2="none" x2="-11.1266" y2="14.2016" x1="-11.1266" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" end1="none"/>
+        <arc x="-13.2037" angle="358.313" antialias="true" y="7.237" width="8.92541" style="line-style:normal;line-weight:normal;filling:none;color:black" height="8.35762" start="271.125"/>
+        <ellipse x="-20" antialias="false" y="-20" width="46" style="line-style:normal;line-weight:normal;filling:none;color:black" height="44"/>
+        <dynamic_text x="-30" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="UserText" y="-40" uuid="{9586cdb2-e96a-470a-b07f-daf1eb685286}" rotation="0" frame="false" text_width="-1" keep_visual_rotation="false" Halignment="AlignLeft" Valignment="AlignTop" z="8">
+            <text>_</text>
+        </dynamic_text>
+        <terminal x="-6.3439" name="" y="19.1661" uuid="{c93299ed-7b20-42c7-ab95-283aae6871f7}" type="Generic" orientation="s"/>
+        <terminal x="-11.1235" name="" y="19.7086" uuid="{bed3afa3-1800-4747-990b-a0c5fc2a1cee}" type="Generic" orientation="s"/>
+    </description>
+</definition>

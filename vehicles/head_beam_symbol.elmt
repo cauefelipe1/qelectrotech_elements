@@ -1,0 +1,19 @@
+<definition hotspot_y="10" link_type="simple" width="20" hotspot_x="10" type="element" version="0.100.0" height="20">
+    <uuid uuid="{d3991239-150e-4dca-b53a-b19837224a18}"/>
+    <names>
+        <name lang="en">Head Beam Symbol</name>
+        <name lang="pt">Símbolo Farol Alto</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <line antialias="false" y1="1.35" end2="none" x2="-7.5125" y2="1.35" x1="-0.0125" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" end1="none"/>
+        <line antialias="false" y1="5.1" end2="none" x2="-6.0125" y2="5.1" x1="1.4875" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" end1="none"/>
+        <line antialias="false" y1="3.3" end2="none" x2="-7.1375" y2="3.3" x1="0.3625" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" end1="none"/>
+        <line antialias="false" y1="-2.25" end2="none" x2="-7.2125" y2="-2.25" x1="0.2875" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" end1="none"/>
+        <line antialias="false" y1="-0.45" end2="none" x2="-7.5125" y2="-0.45" x1="-0.0125" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" end1="none"/>
+        <arc x="-1.2875" angle="172.875" antialias="true" y="-5.625" width="9" style="line-style:normal;line-weight:normal;filling:none;color:black" height="11.25" start="277.063"/>
+        <arc x="0.2125" angle="181.938" antialias="true" y="-5.625" width="6" style="line-style:normal;line-weight:normal;filling:none;color:black" height="11.25" start="91.8125"/>
+        <line antialias="false" y1="-4.125" end2="none" x2="-6.6875" y2="-4.125" x1="0.8125" style="line-style:normal;line-weight:normal;filling:none;color:black" length2="1.5" length1="1.5" end1="none"/>
+    </description>
+</definition>
