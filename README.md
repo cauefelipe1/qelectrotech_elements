@@ -1,2 +1,2 @@
 # qelectrotech_elements
-Few elements fot QElectroTech
+Few elements for QElectroTech
